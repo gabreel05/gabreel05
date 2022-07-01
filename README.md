@@ -30,3 +30,5 @@
   <img align="center" alt="Rafa-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 </div>
+  
+![Snake animation](https://github.com/gabreel05/gabreel05/blob/output/github-contribution-grid-snake.svg)
