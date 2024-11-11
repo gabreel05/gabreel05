@@ -6,9 +6,8 @@
 ##
 
 <ul>
-  <li>💻 I’m currently working on Quarkus and Java with Microservices</li>
-  <li>🌱 I’m currently learning Android with Kotlin</li>
-  <li>🔭 Pretending to study Cibersecurity</li>
+  <li>💻 I’m currently working with Spring and Java and Microservices</li>
+  <li>🌱 I’m currently learning Cybersecurity</li>
 </ul>
 
 ##
